@@ -1,0 +1,12 @@
+Task 1:
+Performed domain IP lookup using nslookup.
+Checked system usage using top.
+Tested connectivity using ping.
+
+Task 2:
+Checked port 9000 using ss command and found no service running.
+Tried accessing application using curl but failed.
+Started a server on port 9000 and verified that it works.
+
+Conclusion:
+Issue was due to no application running on port 9000.
